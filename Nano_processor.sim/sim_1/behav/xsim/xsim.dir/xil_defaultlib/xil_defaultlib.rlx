@@ -1,0 +1,21 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sim_1/new/NanoProcessor_TB.vhd,1686460176,vhdl,,,,nanoprocessor_tb,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Add_Sub_4.vhd,1685766661,vhdl,,,,add_sub_4,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Adder_3.vhd,1685599473,vhdl,,,,adder_3,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Decoder_2_to_4.vhd,1685787316,vhdl,,,,decoder_2_to_4,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Decoder_3_to_8.vhd,1679489414,vhdl,,,,decoder_3_to_8,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/FA.vhd,1678877969,vhdl,,,,fa,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/HA.vhd,1678872066,vhdl,,,,ha,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/I_decoder.vhd,1686459509,vhdl,,,,ins_dec,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/MUX_2_4.vhd,1686221073,vhdl,,,,mux_2_4,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/MUX_8_4.vhd,1684340175,vhdl,,,,mux_8_4,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Mux_3_2.vhd,1684577336,vhdl,,,,mux_3_2,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/PC.vhd,1686300719,vhdl,,,,programcounter,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/PROM.vhd,1686461996,vhdl,,,,prom,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/RCA_4.vhd,1685766111,vhdl,,,,rca_4,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Reg.vhd,1685770367,vhdl,,,,reg,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/imports/new/Reg_bank.vhd,1685595193,vhdl,,,,reg_bank,,,,,,,,
+D:/sem 2/Computer Organization and Degital Design/Nano_processor/Nano_processor.srcs/sources_1/new/NanoProcessor.vhd,1686215099,vhdl,,,,nanoprocessor,,,,,,,,
